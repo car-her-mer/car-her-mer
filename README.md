@@ -4,10 +4,7 @@
 ### Soy Carolina, trabajo en Big Data y actualmente estoy estudiando para ser científica de datos.
 
 
-Soy una persona a la que le encanta crear, sobre todo si puede ayudar a los demás.
-
-Me encantaría ver cómo otros disfrutan de mi trabajo tanto como yo disfruto haciéndolo.
-
+Soy una persona comprometida y con más de 2 años de experiencia en el ámbito de la informática. Motivada por aprender y afrontar nuevos desafíos tecnológicos. Me encanta crear soluciones eficientes y colaborativas que faciliten el trabajo de los equipos y mejoren la experiencia de los usuarios. Actualmente, estoy profundizando en el estudio de Data Science, buscando seguir creciendo en áreas como machine learning y deep learning.
 
 ### Puedes ponerte en contacto:
 
